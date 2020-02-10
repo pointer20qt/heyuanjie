@@ -1,0 +1,13 @@
+﻿生成启动时间为 2020/2/10 20:27:46。
+     1>项目“C:\Users\huohuo1998\documents\visual studio 2013\Projects\静态链接库链接\静态链接库链接\静态链接库链接.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\huohuo1998\Documents\Visual Studio 2013\Projects\静态链接库链接\静态数据库" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\huohuo1998\documents\visual studio 2013\Projects\静态链接库链接\Debug\静态链接库链接.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\huohuo1998\Documents\Visual Studio 2013\Projects\静态链接库链接\Debug" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\huohuo1998\documents\visual studio 2013\Projects\静态链接库链接\Debug\静态链接库链接.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\huohuo1998\documents\visual studio 2013\Projects\静态链接库链接\Debug\静态链接库链接.lib" /MACHINE:X86 "Debug\源.obj"
+         静态链接库链接.vcxproj -> C:\Users\huohuo1998\documents\visual studio 2013\Projects\静态链接库链接\Debug\静态链接库链接.exe
+     1>已完成生成项目“C:\Users\huohuo1998\documents\visual studio 2013\Projects\静态链接库链接\静态链接库链接\静态链接库链接.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.06
